@@ -1,0 +1,10 @@
+flask
+requests
+python-dotenv
+openai
+streamlit==1.46.1
+whisper
+torch
+pydub
+sounddevice
+scipy
